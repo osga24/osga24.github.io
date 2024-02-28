@@ -13,6 +13,10 @@ links:
     description: 如果有問題 交流的歡迎私訊
     website: https://discord.com/users/osga_
     image: https://www.svgrepo.com/show/353655/discord-icon.svg
+  - title: HackMD
+    description: 有時候文章丟這邊 會同步（大概吧）
+    website: https://hackmd.io/@osga
+    image: https://uploads-public.hackmd.io/ZmEEvep.png
 menu:
     main: 
         weight: 4
