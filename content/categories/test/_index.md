@@ -1,6 +1,6 @@
 ---
-title: test
-description: 測試用ㄉ
+title: writeup
+description: 一些筆記
 image: cover.jpg
 
 # Badge style
