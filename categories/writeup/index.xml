@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Writeup on OsGa's Blog</title><link>https://osga24.github.io/categories/writeup/</link><description>Recent content in Writeup on OsGa's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://osga24.github.io/categories/writeup/index.xml" rel="self" type="application/rss+xml"/><item><title>THJCC Writeup</title><link>https://osga24.github.io/p/thjcc/</link><pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate><guid>https://osga24.github.io/p/thjcc/</guid><description>&lt;img src="https://osga24.github.io/p/thjcc/thjcc.png" alt="Featured image of post THJCC Writeup" />&lt;h1 id="前言">前言:
+&lt;/h1>&lt;p>這次被找來出題滿意外的w，其實一開始是因為台中高工有跟他們科主任討論過想來搞一個實體交流賽，剛剛好北電這邊有機會，結果就被找來了＠＠。&lt;/p>
+&lt;p>基本上我是負責降低難度的w（&lt;del>對我知道有人要說discord 0x1&lt;/del>），反正希望各位有在這次比賽學習到很多新技術！也恭喜獲獎的大家～&lt;/p>
+&lt;h1 id="writeup">Writeup
+&lt;/h1>&lt;h2 id="welcome">welcome
+&lt;/h2>&lt;h3 id="welcome-0x1">welcome 0x1:
+&lt;/h3>&lt;ul>
+&lt;li>tag: &lt;code>THJCC{5cINt_s (1/2)&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>歡迎來到 THJCC CTF !&lt;/p>
+&lt;p>本次競賽所有Flag格式為 THJCC{*.}&lt;/p>
+&lt;p>記得要詳閱&lt;a class="link" href="https://ctf.scint.org/rule" target="_blank" rel="noopener"
+>規則&lt;/a> 不要作弊!&lt;/p>
+&lt;p>祝各位榮獲佳績!ヽ(́◕◞౪◟◕‵)ノ&lt;/p>
+&lt;p>&lt;code>Author : OsGa&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>welcome 題就是講求一個簡單！&lt;/p>
+&lt;p>在下方的tag就會看到 part1&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/welcome/welcome_part1.png"
+width="313"
+height="125"
+srcset="https://osga24.github.io/p/thjcc/welcome/welcome_part1_hu29134f00240209b6262e28ff82a22287_10686_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/welcome/welcome_part1_hu29134f00240209b6262e28ff82a22287_10686_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="250"
+data-flex-basis="600px"
+>&lt;/p>
+&lt;p>part2 的部分在 rule page 最下方(叫你好好看規則la)&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/welcome/welcome_part2.png"
+width="311"
+height="162"
+srcset="https://osga24.github.io/p/thjcc/welcome/welcome_part2_hu229545f11e19e09f4071320273d290be_6658_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/welcome/welcome_part2_hu229545f11e19e09f4071320273d290be_6658_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="460px"
+>&lt;/p>
+&lt;hr>
+&lt;h3 id="discord-0x1">discord 0x1
+&lt;/h3>&lt;blockquote>
+&lt;p>相信你已經加入 Discord 伺服器了!&lt;/p>
+&lt;p>如果還沒 &lt;a class="link" href="https://discord.gg/RDhf7rxz4f" target="_blank" rel="noopener"
+>https://discord.gg/RDhf7rxz4f&lt;/a> 趕快加入 領取身份組 !!&lt;/p>
+&lt;p>我已經把這題的Flag藏在伺服器裡了 快去尋找吧!&lt;/p>
+&lt;p>&lt;code>備註:題目與ticket無關&lt;/code>&lt;/p>
+&lt;p>&lt;code>Author : OsGa&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>來到飽受爭議的Discord 0x1&lt;/p>
+&lt;p>我真的沒想過這題會殺到那麼多人QQ 對不起社會大眾Orz&lt;/p>
+&lt;p>反正FLAG都在機器人上，看一下機器人就會看到 part1 and part2&lt;/p>
+&lt;p>part1 在 banner ，part3 在 role&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/discord/bot_profile.png"
+width="672"
+height="1102"
+srcset="https://osga24.github.io/p/thjcc/discord/bot_profile_hu8217f6c7ef52b8ab04e0bca0c4f455a0_220201_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/discord/bot_profile_hu8217f6c7ef52b8ab04e0bca0c4f455a0_220201_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="60"
+data-flex-basis="146px"
+>&lt;/p>
+&lt;p>好！那大家找不到的 part2 在哪呢？&lt;/p>
+&lt;p>如果你在隨便一個文字頻道或私訊他，打上 &lt;code>/&lt;/code> 去看指令的話，會發現有些 command 很眼熟。&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/discord/command.png"
+width="1374"
+height="290"
+srcset="https://osga24.github.io/p/thjcc/discord/command_hue36264f316e3a9484f411e9d409150a5_49813_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/discord/command_hue36264f316e3a9484f411e9d409150a5_49813_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="473"
+data-flex-basis="1137px"
+>&lt;/p>
+&lt;p>打上 &lt;code>/ls&lt;/code>&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/discord/ls.png"
+width="1544"
+height="382"
+srcset="https://osga24.github.io/p/thjcc/discord/ls_hu33782e200d65fde16e68a043d51bc03d_157466_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/discord/ls_hu33782e200d65fde16e68a043d51bc03d_157466_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="970px"
+>&lt;/p>
+&lt;p>SUS &lt;code>flag.txt&lt;/code> ，用 &lt;code>cat&lt;/code> 看看！&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/discord/cat.png"
+width="728"
+height="208"
+srcset="https://osga24.github.io/p/thjcc/discord/cat_huba06b9143d010b5790bcbb8479c013cd_77881_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/discord/cat_huba06b9143d010b5790bcbb8479c013cd_77881_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="350"
+data-flex-basis="840px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>然後我藏了一些彩蛋，沒試過的現在可以去試試w&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="crypto">Crypto
+&lt;/h2>&lt;h3 id="博元婦產科">博元婦產科
+&lt;/h3>&lt;ul>
+&lt;li>tag: &lt;code>baby&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>你好,我是博元妇产科蔡医师,近期我们正计画打造一批超强资安人才菁英,结果发生意外,这群小鬼居然绑架我,还差5000元就能逃离出他们魔掌 ,但我的银行号码被他们给加密了,这是加密后的银行号码&lt;code>TUFDVlZ7cFBwLnU0VXJmVGQzay52MEYubVB9Cg==&lt;/code> ,你现在帮过我,我承诺送你蔡医师水洗T还有蔡医梳,并帮你培养一个 试管婴儿。
+&lt;img src="https://osga24.github.io/p/thjcc/crypto/tsia14.jpeg"
+width="194"
+height="259"
+srcset="https://osga24.github.io/p/thjcc/crypto/tsia14_hu3cfda0b48796efbafe2bf4b305a197bf_8326_480x0_resize_q75_box.jpeg 480w, https://osga24.github.io/p/thjcc/crypto/tsia14_hu3cfda0b48796efbafe2bf4b305a197bf_8326_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+>&lt;/p>
+&lt;/blockquote>
+&lt;p>可惡本來要出更難的，但因為是baby題，所以被駁回QQ&lt;/p>
+&lt;p>很明顯就是先 base64 一波&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/crypto/base64.png"
+width="1360"
+height="180"
+srcset="https://osga24.github.io/p/thjcc/crypto/base64_hu15a82483a19ca769d5efb1b8616e289f_51844_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/crypto/base64_hu15a82483a19ca769d5efb1b8616e289f_51844_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="755"
+data-flex-basis="1813px"
+>&lt;/p>
+&lt;p>然後在凱薩，超級送分題w&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/crypto/caesar.png"
+width="1294"
+height="180"
+srcset="https://osga24.github.io/p/thjcc/crypto/caesar_huce7043893a8527aa7d7564074f71003b_124634_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/crypto/caesar_huce7043893a8527aa7d7564074f71003b_124634_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="718"
+data-flex-basis="1725px"
+>&lt;/p>
+&lt;h2 id="misc">Misc
+&lt;/h2>&lt;h3 id="出題者大合照">出題者大合照！
+&lt;/h3>&lt;ul>
+&lt;li>tag: &lt;code>easy&lt;/code>、&lt;code>Steganography&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>好誒!這是我們在 SITCON 2024 的大合照!&lt;/p>
+&lt;p>感謝每一位辛苦的出題者 才有這次的比賽!&lt;/p>
+&lt;p>但是但是 可惡的駭客 潘志豪 把FLAG給藏在這張照片了&lt;/p>
+&lt;p>你能找到它嗎?&lt;/p>
+&lt;p>&lt;code>Author : 0sGa&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>下載完照片你會發現有一張史詩級帥氣的大佬們和一個小丑(我)的合照&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/misc/chal.png"
+width="2336"
+height="1322"
+srcset="https://osga24.github.io/p/thjcc/misc/chal_huea7a8a7a97dad9358b6356a7e99adb86_2301502_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/misc/chal_huea7a8a7a97dad9358b6356a7e99adb86_2301502_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="424px"
+>&lt;/p>
+&lt;p>使用 &lt;code>steghide info &amp;lt;file&amp;gt;&lt;/code> 可以看到照片內藏了怪東東&lt;/p>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/misc/info.png"
+width="1194"
+height="514"
+srcset="https://osga24.github.io/p/thjcc/misc/info_hu57d0ad4f14abb9fb2c904b8d1382c804_105572_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/misc/info_hu57d0ad4f14abb9fb2c904b8d1382c804_105572_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="232"
+data-flex-basis="557px"
+>&lt;/p>
+&lt;p>&lt;code>flag.txt&lt;/code> 🤔 ，把它提出來看看&lt;/p>
+&lt;blockquote>
+&lt;p>喔對，沒有設密碼，所以可以直按 enter&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://osga24.github.io/p/thjcc/misc/demo.png"
+width="910"
+height="556"
+srcset="https://osga24.github.io/p/thjcc/misc/demo_hu6e36fa9d89284bd568cea9749f296dc3_285826_480x0_resize_box_3.png 480w, https://osga24.github.io/p/thjcc/misc/demo_hu6e36fa9d89284bd568cea9749f296dc3_285826_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="163"
+data-flex-basis="392px"
+>&lt;/p>
+&lt;h2 id="結語">結語
+&lt;/h2>&lt;p>好誒，撒花，終於落幕了（&lt;del>剩結賽典禮&lt;/del>）&lt;/p>
+&lt;p>感謝這次參與比賽的各個參賽者&lt;/p>
+&lt;p>希望各位在比賽中有邊享受到解題的樂趣又學習到技術！&lt;/p>
+&lt;p>希望可以順利辦第二屆！謝謝大家，最菜出題者這邊下台一鞠躬。&lt;/p></description></item></channel></rss>
